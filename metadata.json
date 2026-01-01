@@ -1,0 +1,8 @@
+{
+  "name": "IronLog",
+  "description": "A high-end, minimalist weightlifting app for planning weekly routines, logging real-time sets, and recording coaching sessions with video uploads.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
